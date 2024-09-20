@@ -1,0 +1,20 @@
+<ul id="navbar">
+
+  </ul>
+<link rel="stylesheet" href="styles.css">
+<div id="welcome-section">
+  <h1>Text</h1>
+</div>
+<div id="projects">
+  <div class="project-tile"></div>
+  <a href="https://www.youtube.com/watch?v=U3n31M81RpE"></a>
+  <navbar id="navbar">
+    <a href="#https://www.youtube.com/watch?v=U3n31M81RpE"></a>
+  </navbar>
+  <a id="profile-link" target="_blank"></a>
+</div>
+
+@media (min-width: 200px;){
+  background-color: blue;
+  
+}
